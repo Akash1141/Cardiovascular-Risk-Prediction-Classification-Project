@@ -5,6 +5,7 @@ This project focuses on analyzing a dataset from an ongoing cardiovascular study
 ## Project Structure
 The project is structured as follows:
 
+
 Data Exploration and Preprocessing: In this section, the dataset is explored to understand its structure and characteristics. Missing values are handled, categorical columns are converted to numerical format, and statistical properties of the dataset are analyzed.
 
 Data Visualization: Various data visualization techniques are employed to gain insights into the relationships between different attributes. Scatter plots, histograms, heatmaps, and pair plots are created to visualize correlations and patterns in the data.
